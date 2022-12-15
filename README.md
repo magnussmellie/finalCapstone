@@ -1,3 +1,10 @@
+Hangman game. The user guesses the letters in the word. When a correct letter is guessed, the letter is displayed on the screen, when an incorrect letter is guessed, one more lne is added to the image of a stickman being hanged. When the image is completed, the game is over and the player has lost. If the word is guessed before the image is completed, then the user has won.  
+
+In order to play the game, run git clone <project's remote repo url>, 
+and then npm start. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
