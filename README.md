@@ -4,6 +4,10 @@ Interactive game where the user guesses the letters in the word. When a correct 
 
 Table of contents: 
 -Installation  
+-Usage 
+-Credits 
+
+INSTALLATION
 
 In order to install the game, run:  
 
@@ -11,7 +15,8 @@ git clone https://github.com/magnussmellie/finalCapstone.git
 
 npm start 
 
--Usage 
+
+USAGE
 
 Opening display: 
 ![opening](https://user-images.githubusercontent.com/89877541/210378991-0a2bb8b2-565c-4c52-bbb3-9c9aebd80f75.JPG)
@@ -23,13 +28,9 @@ Winning display:
 ![win](https://user-images.githubusercontent.com/89877541/210379153-fd378415-012a-484c-b5c9-2af2356974ce.JPG)
 
 
--Credits
+CREDITS
 
-
-
-
-In order to play the game, run git clone <project's remote repo url>
-and then npm start. 
+This app was developed with reference to Simon Jshuh's similar game, found at https://github.com/simonjsuh/Reactjs-Hangman-Game-Source-Code. 
 
 
 
