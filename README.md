@@ -1,6 +1,34 @@
-Hangman game. The user guesses the letters in the word. When a correct letter is guessed, the letter is displayed on the screen, when an incorrect letter is guessed, one more lne is added to the image of a stickman being hanged. When the image is completed, the game is over and the player has lost. If the word is guessed before the image is completed, then the user has won.  
+Hangman game. 
 
-In order to play the game, run git clone <project's remote repo url>, 
+Interactive game where the user guesses the letters in the word. When a correct letter is guessed, the letter is displayed on the screen, when an incorrect letter is guessed, one more lne is added to the image of a stickman being hanged. When the image is completed, the game is over and the player has lost. If the word is guessed before the image is completed, then the user has won.  
+
+Table of contents: 
+-Installation  
+
+In order to install the game, run:  
+
+git clone https://github.com/magnussmellie/finalCapstone.git  
+
+npm start 
+
+-Usage 
+
+Opening display: 
+![opening](https://user-images.githubusercontent.com/89877541/210378991-0a2bb8b2-565c-4c52-bbb3-9c9aebd80f75.JPG)
+
+Mid gameplay: 
+![gameplay](https://user-images.githubusercontent.com/89877541/210379072-f5b225f5-ebe6-4692-97e8-dc257edc2bad.JPG)
+
+Winning display: 
+![win](https://user-images.githubusercontent.com/89877541/210379153-fd378415-012a-484c-b5c9-2af2356974ce.JPG)
+
+
+-Credits
+
+
+
+
+In order to play the game, run git clone <project's remote repo url>
 and then npm start. 
 
 
